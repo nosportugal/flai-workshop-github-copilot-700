@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/nos-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/nos-logo-light.png">
+    <img alt="NOS Logo" src="images/nos-logo-light.png" width="200">
+  </picture>
+</p>
+
 # Scale institutional knowledge using Copilot Spaces
 
 Learn how Copilot Spaces can scale institutional knowledge and streamline organizational processes.
